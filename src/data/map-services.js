@@ -1,4 +1,5 @@
-const accessToken = process.env.GATSBY_MAPBOX_KEY;
+const accessToken =
+  "pk.eyJ1IjoiY211dGFnb3JhbWEiLCJhIjoiY2swNnJmN2JzMDQ5OTNrbWNneWx2cGF5MiJ9.KyxshHlzkGiVOtMFiSRVDQ";
 
 export const mapServices = [
   {
