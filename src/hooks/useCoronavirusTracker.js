@@ -6,12 +6,12 @@ const API_HOST = "https://corona.lmao.ninja";
 const ENDPOINTS = [
   {
     id: "all",
-    path: "/all",
+    path: "/v3/covid-19/all",
     isDefault: true,
   },
   {
     id: "countries",
-    path: "/countries",
+    path: "/v3/covid-19/countries",
   },
 ];
 
